@@ -13,7 +13,7 @@
       "decimals": 6,
       "address": "0x9A87097Eb03393bcD00e4dEF311f1E81970A7aaB",
       "chainId": 56,
-      "logoURI": "https://imgdlvr.com/pic/photoresizer.com/20261014-0527/public"
+      "logoURI": "https://raw.githubusercontent.com/TENTERUSDT/TNUSD-assets/main/blockchains/smartchain/logo.png"
     },
     {
       "name": "TenterUSD",
@@ -21,7 +21,7 @@
       "decimals": 6,
       "address": "0x5cf4D0F64B2a4FF79775a5a4c63308fe20B76022",
       "chainId": 1,
-      "logoURI": "https://imgdlvr.com/pic/photoresizer.com/20261014-0527/public"
+      "logoURI": "https://raw.githubusercontent.com/TENTERUSDT/TNUSD-assets/main/blockchains/ethereum/logo.png"
     },
     {
       "name": "TenterUSD",
@@ -29,7 +29,7 @@
       "decimals": 6,
       "address": "0x5cf4D0F64B2a4FF79775a5a4c63308fe20B76022",
       "chainId": 8453,
-      "logoURI": "https://imgdlvr.com/pic/photoresizer.com/20261014-0527/public"
+      "logoURI": "https://raw.githubusercontent.com/TENTERUSDT/TNUSD-assets/main/blockchains/base/logo.png"
     },
     {
       "name": "TenterUSD",
@@ -37,7 +37,7 @@
       "decimals": 6,
       "address": "0x5cf4D0F64B2a4FF79775a5a4c63308fe20B76022",
       "chainId": 137,
-      "logoURI": "https://imgdlvr.com/pic/photoresizer.com/20261014-0527/public"
+      "logoURI": "https://raw.githubusercontent.com/TENTERUSDT/TNUSD-assets/main/blockchains/polygon/logo.png"
     },
     {
       "name": "TenterUSD",
@@ -45,7 +45,7 @@
       "decimals": 6,
       "address": "0x5cf4D0F64B2a4FF79775a5a4c63308fe20B76022",
       "chainId": 10,
-      "logoURI": "https://imgdlvr.com/pic/photoresizer.com/20261014-0527/public"
+      "logoURI": "https://raw.githubusercontent.com/TENTERUSDT/TNUSD-assets/main/blockchains/optimism/logo.png"
     },
     {
       "name": "TenterUSD",
@@ -53,7 +53,7 @@
       "decimals": 6,
       "address": "0x5cf4D0F64B2a4FF79775a5a4c63308fe20B76022",
       "chainId": 42161,
-      "logoURI": "https://imgdlvr.com/pic/photoresizer.com/20261014-0527/public"
+      "logoURI": "https://raw.githubusercontent.com/TENTERUSDT/TNUSD-assets/main/blockchains/arbitrum/logo.png"
     },
     {
       "name": "TenterUSD",
@@ -61,7 +61,7 @@
       "decimals": 6,
       "address": "0x5cf4D0F64B2a4FF79775a5a4c63308fe20B76022",
       "chainId": 43114,
-      "logoURI": "https://imgdlvr.com/pic/photoresizer.com/20261014-0527/public"
+      "logoURI": "https://raw.githubusercontent.com/TENTERUSDT/TNUSD-assets/main/blockchains/avalanche/logo.png"
     },
     {
       "name": "TenterUSD",
@@ -69,7 +69,7 @@
       "decimals": 6,
       "address": "0x5cf4D0F64B2a4FF79775a5a4c63308fe20B76022",
       "chainId": 688,
-      "logoURI": "https://imgdlvr.com/pic/photoresizer.com/20261014-0527/public"
+      "logoURI": "https://raw.githubusercontent.com/TENTERUSDT/TNUSD-assets/main/blockchains/robinhood/logo.png"
     }
   ]
 }
